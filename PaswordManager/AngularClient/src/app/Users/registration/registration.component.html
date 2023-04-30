@@ -1,0 +1,16 @@
+<div class="form-floating" style="margin-left: auto; margin-right: auto; margin-top: 10%; width: 20em; ">
+    <h5 class="card-title">Registration user</h5>
+  <div class="form-floating mb-3">
+    <input [(ngModel)]="registrationUser.name" type="text" class="form-control" id="floatingInput" placeholder="name@example.com">
+    <label for="floatingInput">Name</label>
+  </div>
+  <div class="form-floating mb-3">
+    <input [(ngModel)]="registrationUser.password" type="password" class="form-control" id="floatingPassword" placeholder="Password">
+    <label for="floatingPassword">Password</label>
+  </div>
+  <div class="form-floating">
+    <input [(ngModel)]="registrationUser.eMail" type="email" class="form-control" id="floatingEmail" placeholder="Password">
+    <label for="floatingPassword">Email</label>
+  </div>
+  <button (click)="RegistrationUser()" type="button" class="btn btn-primary" style="margin-top: 1em;">Registration</button>
+</div>
