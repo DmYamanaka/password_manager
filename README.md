@@ -128,6 +128,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/DmYamanaka/p
 
 * **DmYamanaka** - *Developer* - [DmYamanaka](https://github.com/DmYamanaka) - *Password Manager*
 * **SniffRx** - *Developer* - [SniffRx](https://github.com/SniffRx) - *Password Manager*
+* **Sedykh-Alexej** - *Developer* - [Sedykh-Alexej](https://github.com/Sedykh-Alexej) - *Password Manager*
 
 ## Acknowledgements
 
